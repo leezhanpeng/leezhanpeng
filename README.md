@@ -1,6 +1,6 @@
 Hello world, I'm [Zhan Peng](http://leezhanpeng.github.io) 👋🏻
 ==============================
-I am a final year student 🧑🏻‍🎓 at the National University of Singapore, double majoring in Data Science & Analytics 📊 and Computer Science 🖥️. I additionally picked up a specialisation in Statistical Methodology 📈 to boost my skill set in statistical inference. My academic journey has taken me from the basics of data analytics to the cutting-edge fields of data science, machine learning, and generative AI.
+Data Science & Analytics 📊 | Computer Science 🖥️
 
 You can contact me at [zhanpenglee@outlook.com](mailto:zhanpenglee@outlook.com) ✉️.
 
